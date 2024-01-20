@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Olayuwa Timilehin Ebenezer.
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning react.js 
 - 💞️ I’m looking to collaborate on web development projects 
-- 📫 you can reach me through my email timileyinolayuwa@gmail. 
-- 🐦@OlayuwaE
+- 📫 you can reach me through my email timileyinolayuwa@gmail.com 
+- 🐦Twitter: @OlayuwaE
 - 🔗 linkedin.com/in/ebentim
 
 
