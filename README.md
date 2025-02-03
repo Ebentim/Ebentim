@@ -2,7 +2,7 @@
 <!--![Timilehin Olayuwa](https://github.com/ebentim.png) -->
 
 ## 🚀 About Me
-I'm a Software Engineer and the founder of Alpinesbolt, where I'm working on innovating financial literacy solutions. My passion lies in creating impactful technological solutions that make a difference.
+I'm a Software Engineer and the founder of Alpinesbolt, where I'm working on innovating financial solutions. My passion lies in creating impactful technological solutions that make a difference.
 
 ## 🛠️ Tech Stack
 ### Languages
