@@ -33,7 +33,7 @@ A dropshipping platform featuring automatic order fulfillment, demonstrating my 
 ## 💼 Professional Journey
 
 ### Software Engineer | E-Learning Platform Developer
-**Lord Jesus School Intl  | 1 Year 6 Months**
+**Lord Jesus School Intl**
 - Architected and developed a comprehensive e-learning platform for driver education
 - Implemented robust technological solutions to enhance online learning experiences
 - Demonstrated ability to create complex educational technology solutions
