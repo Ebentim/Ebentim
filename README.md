@@ -2,7 +2,7 @@
 <!--![Timilehin Olayuwa](https://github.com/ebentim.png) -->
 
 ## 🚀 About Me
-I'm a Software Engineer and the founder of Alpinesbolt, where I'm working on innovating financial solutions. My passion lies in creating impactful technological solutions that make a difference.
+I'm a Software Engineer. My passion lies in creating impactful technological solutions that make a difference.
 
 ## 🛠️ Tech Stack
 ### Languages
@@ -31,6 +31,11 @@ I'm a Software Engineer and the founder of Alpinesbolt, where I'm working on inn
 A dropshipping platform featuring automatic order fulfillment, demonstrating my expertise in creating efficient e-commerce solutions.-->
 
 ## 💼 Professional Journey
+### Senior Fullstack Developer | Artificial Intelligence
+**Camie tech**
+- Developed customer-facing AI solutions
+- Designed and developed a robust authentication system
+- Managed existing applications
 
 ### Software Engineer | E-Learning Platform Developer
 **Lord Jesus School Intl**
@@ -45,8 +50,8 @@ A dropshipping platform featuring automatic order fulfillment, demonstrating my 
 - Helping young learners understand and excel in web development technologies
 
 ### Founder | Alpinesbolt
-- Pioneering innovative solutions in financial literacy
-- Leveraging technology to make financial education accessible and engaging
+- Building AI-Native Web Application
+- Developing highly intelligent autonomous software applications
 
 ## 🎯 Professional Mission
 - Empowering learning through technology
@@ -54,7 +59,8 @@ A dropshipping platform featuring automatic order fulfillment, demonstrating my 
 - Nurturing tech skills in the next generation
 
 ## 🎯 Current Focus
-- Developing cutting-edge solutions for financial education
+- Developing Airagent (Customer care representative) at Camie
+- Building FieldPilot (Field Service Management) AI at Alpinesbolt.
 - Expanding technological capabilities at Alpinesbolt
 - Continuously learning and improving software engineering skills
 
